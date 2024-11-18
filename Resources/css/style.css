@@ -35,7 +35,6 @@ a {
 /*footer css*/
 
 footer {
-    height: 13rem;
     display: flex;
     justify-content: space-between;
     font-weight: lighter;
@@ -44,7 +43,8 @@ footer {
 }
 
 .grid-item {
-    margin-top: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     flex: 1;
     margin: 0 10px;
     text-align: center;
@@ -199,7 +199,6 @@ footer {
     height: 900px;
     position: relative;
     top: 0;
-    background-image: url('../background.jpg');
 }
 
 /* introduction css */
@@ -293,7 +292,7 @@ footer {
 }
 
 .github {
-    width: 30%;
+    width: 7rem;
     background-color: black;
     color: white;
     border-radius: 1000px;
